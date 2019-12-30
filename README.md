@@ -23,4 +23,4 @@ I used Navlink for styling active links, created 'NoMatch' component for errors,
  <hr>
  
  
- <h3>Netlify Link  : https://wizardly-hoover-4bf3aa.netlify.com</h3>
+ <h3>Netlify Link  : https://condescending-colden-991e5c.netlify.com/courses</h3>
